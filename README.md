@@ -1,4 +1,4 @@
-## Hi there 👋 I^m Alexia Dade
+## Hi there 👋 I'm Alexia Dade
 
 - 🔭 I’m currently working on Github
 - 🌱 I’m currently learning Chemistry 
